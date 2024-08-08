@@ -1,15 +1,10 @@
 <h1 align="center">Hi, I'm Tanmoy Das</h1>
-<h3 align="center">A passionate Data Scientist from Canada</h3>
+<h3 align="center">A passionate Operations Research Scientist </h3>
 
 - 🔭 I’m currently working on [Optimizing Resource Allocation](https://www.maritimeriskandsafety.ca/personnel/tanmoyie/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/tanmoyie/](https://github.com/tanmoyie/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tanmoyie/](https://www.linkedin.com/in/tanmoyie/)
-
 - 💬 Ask me about **Python, Data Science, Analytics**
 
-- 📫 How to reach me **tanmoyie@dal.ca**
 
 
 <h3 align="left">Connect with me:</h3>
