@@ -25,6 +25,13 @@
 </table>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="https://your-image-url.com/image.png" alt="Project Image" width="200" style="margin-right: 20px;">
+  <p>
+    This is a description of the project. You can write details here, such as the motivation,
+    technologies used, or any other highlights you'd like to include.
+  </p>
+</div>
 
 
 
