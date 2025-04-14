@@ -31,7 +31,6 @@
 # About me
 I love solving problems using data. I hold a PhD in Industrial Engineering (Operations Research specialization) from Dalhousie University.  
 
-![image](https://github.com/user-attachments/assets/8ad34486-7f25-4382-afbe-bc85b1370e7a)
 
 
 # Publications
