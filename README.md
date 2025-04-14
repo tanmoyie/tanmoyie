@@ -22,7 +22,7 @@
       </p>
     </td>
     <td style="text-align: center; width: 40%;">
-      <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stock_Market_Graph.png/320px-Stock_Market_Graph.png](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba)" alt="Optimized Network" width="250">
+      <img src="https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba" alt="Optimized Network" width="250">
     </td>
   </tr>
 </table>
