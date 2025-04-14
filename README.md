@@ -92,7 +92,7 @@
 
 # About me
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/873becf8-1409-43c5-934f-207c58f2493c" alt="Tanmoy's Headshot" width="192" height="192" style="border-radius: 10px;">
+  <img src="willaddsoon++" alt="Tanmoy's Headshot" width="192" height="192" style="border-radius: 10px;">
   
   <div>
     <p>
