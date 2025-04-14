@@ -17,7 +17,8 @@
         Develop a Mixed Integer Programming (MIP) optimization model for an oil spill problem to help strategic decision-making. <br>
         🔧 Tools: Python, Gurobi <br>
         📊 Result: Improved model runtime by 14% over baseline solver.
-      🔗 <a "https://github.com/tanmoyie/Location-allocation-using-MIP">Source code</a> 
+      🔗 <a href="https://doi.org/10.1016/j.multra.2023.100110">Publication</a>  | 
+        <a "https://github.com/tanmoyie/Location-allocation-using-MIP">Source code</a>  |
       </p>
     </td>
     <td style="text-align: center; width: 60%;">
@@ -29,6 +30,9 @@
 
 <table>
   <tr>
+    <td style="text-align: center; width: 40%;">
+      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="250">
+    </td>
     <td style="vertical-align: top; width: 60%;">
       <h2>🛢️ Machine Learning to Predict Oil Spill Size</h2>
       <p>
@@ -40,9 +44,6 @@
         <a href="https://doi.org/10.1177/14750902211039659">Publication</a> |
         <a href="https://github.com/tanmoyie/Deep-Neural-Network">Source Code</a>
       </p>
-    </td>
-    <td style="text-align: center; width: 40%;">
-      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="250">
     </td>
   </tr>
 </table>
