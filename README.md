@@ -9,35 +9,20 @@
 
 # Featured Optimization Projects
 
-## Solving Vehicle Routing Problem using Column Generation
-
-<div align='center'>
-<table border="0">
- <tr>
-    <td>- Introduce the problem
-- How fast 12times than solver like Gurobi
-- outcome... </td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td> ![optimized_network_P-n16-k8 vrp](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba) </td>
- </tr>
-</table>
-</div>
-
-
 <table>
   <tr>
     <td style="vertical-align: top; width: 60%;">
-      <h3>📈 S&P 500 Forecasting</h3>
+      <h2>📈 Solving Vehicle Routing Problem using Column Generation </h2>
       <p>
-        A machine learning model that integrates macroeconomic indicators like GDP and inflation with belief dispersion to enhance forecasting performance of the S&P 500. <br><br>
-        🔧 Tools: XGBoost, Python, Pandas <br>
-        📊 Result: Improved MAPE by 14% over baseline ARIMA model.
+        Introduce the problem
+- How fast 12times than solver like Gurobi
+- outcome... <br><br>
+        🔧 Tools: Python, Gurobi <br>
+        📊 Result: Improved model runtime by 14% over baseline solver.
       </p>
     </td>
     <td style="text-align: center; width: 40%;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stock_Market_Graph.png/320px-Stock_Market_Graph.png" alt="Forecast Plot" width="250">
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stock_Market_Graph.png/320px-Stock_Market_Graph.png](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba)" alt="Optimized Network" width="250">
     </td>
   </tr>
 </table>
