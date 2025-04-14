@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td style="text-align: center; width: 60%;">
-      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="400">
+      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="250">
     </td>
     <td style="vertical-align: top; width: 40%;">
       <h2> Machine Learning to predict oil spill size  </h2>
