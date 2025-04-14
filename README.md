@@ -21,7 +21,7 @@
       </p>
     </td>
     <td style="text-align: center; width: 60%;">
-      <img src="https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba" alt="Canadian Arctic" width="350">
+      <img src="https://github.com/user-attachments/assets/4c95b5f5-f612-4ded-9852-1e7cc0749374" alt="Canadian Arctic" width="350">
     </td>
   </tr>
 </table>
