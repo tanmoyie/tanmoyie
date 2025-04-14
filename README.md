@@ -10,6 +10,9 @@
 
 
 ## MIP - Multimodal transport
+++
+add content 
+
 
 <table>
   <tr>
@@ -50,6 +53,9 @@
 
 <table>
   <tr>
+    <td style="text-align: center; width: 60%;">
+      <img src="https://github.com/user-attachments/assets/9ae7ad83-b444-4212-9553-d48a6d25300b" alt="graphical abstract" width="250">
+    </td>
     <td style="vertical-align: top; width: 40%;">
       <h2> Multiobjective Facility Location Model for Optimizing Arctic Oil-Spill Response</h2>
       <p>
@@ -60,9 +66,7 @@
         📊 Result: Improved model runtime by 14% over baseline solver.
       </p>
     </td>
-    <td style="text-align: center; width: 60%;">
-      <img src="https://github.com/user-attachments/assets/9ae7ad83-b444-4212-9553-d48a6d25300b" alt="graphical abstract" width="250">
-    </td>
+
   </tr>
 </table>
 
