@@ -1,4 +1,4 @@
-<h1 Tanmoy Das </h1>
+<h1 align="center">Tanmoy Das </h1>
 <h3 align="center">Operations Research Scientist </h3>
 
 
