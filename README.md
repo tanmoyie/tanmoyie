@@ -25,13 +25,22 @@
 </table>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://your-image-url.com/image.png" alt="Project Image" width="200" style="margin-right: 20px;">
-  <p>
-    This is a description of the project. You can write details here, such as the motivation,
-    technologies used, or any other highlights you'd like to include.
-  </p>
-</div>
+
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      <h3>📈 S&P 500 Forecasting</h3>
+      <p>
+        A machine learning model that integrates macroeconomic indicators like GDP and inflation with belief dispersion to enhance forecasting performance of the S&P 500. <br><br>
+        🔧 Tools: XGBoost, Python, Pandas <br>
+        📊 Result: Improved MAPE by 14% over baseline ARIMA model.
+      </p>
+    </td>
+    <td style="text-align: center; width: 40%;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stock_Market_Graph.png/320px-Stock_Market_Graph.png" alt="Forecast Plot" width="250">
+    </td>
+  </tr>
+</table>
 
 
 
