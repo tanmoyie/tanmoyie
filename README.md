@@ -1,4 +1,4 @@
-![Graphical abstract JP4](https://github.com/user-attachments/assets/f6da5dc9-4293-4b1c-b03f-3838c9c073a4)<h1 align="center">Hi, I'm Tanmoy Das</h1>
+<h1 Tanmoy Das </h1>
 <h3 align="center">Operations Research Scientist </h3>
 
 
@@ -31,6 +31,7 @@
 # About me
 I love solving problems using data. I hold a PhD in Industrial Engineering (Operations Research specialization) from Dalhousie University.  
 
+![image](https://github.com/user-attachments/assets/8ad34486-7f25-4382-afbe-bc85b1370e7a)
 
 
 # Publications
