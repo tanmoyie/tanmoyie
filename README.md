@@ -11,17 +11,17 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 40%;">
+    <td style="vertical-align: top; width: 30%;">
       <h2>A mixed integer programming approach to improve oil spill response resource allocation </h2>
       <p>
         Develop a Mixed Integer Programming (MIP) optimization model for an oil spill problem to help strategic decision-making. <br>
         🔧 Tools: Python, Gurobi <br>
-        📊 Result: Improved model runtime by 14% over baseline solver.
+        📊 Result: Improved model runtime by 14% over baseline solver. <br><br>
       🔗 <a href="https://doi.org/10.1016/j.multra.2023.100110">Publication</a>  | 
-        <a "https://github.com/tanmoyie/Location-allocation-using-MIP">Source code</a>  |
+        <a href="https://github.com/tanmoyie/Location-allocation-using-MIP">Source code</a>  
       </p>
     </td>
-    <td style="text-align: center; width: 60%;">
+    <td style="text-align: center; width: 70%;">
       <img src="https://github.com/user-attachments/assets/4c95b5f5-f612-4ded-9852-1e7cc0749374" alt="Canadian Arctic" width="350">
     </td>
   </tr>
