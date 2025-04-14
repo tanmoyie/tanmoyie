@@ -9,23 +9,35 @@
 # Featured Optimization Projects
 
 
-## MIP - Multimodal transport
-++
-add content 
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 40%;">
+      <h2>A mixed integer programming approach to improve oil spill response resource allocation </h2>
+      <p>
+        Develop a Mixed Integer Programming (MIP) optimization model for an oil spill problem to help strategic decision-making. <br>
+        🔧 Tools: Python, Gurobi <br>
+        📊 Result: Improved model runtime by 14% over baseline solver.
+      </p>
+    </td>
+    <td style="text-align: center; width: 60%;">
+      <img src="https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba" alt="Canadian Arctic" width="350">
+    </td>
+  </tr>
+</table>
 
 
 <table>
   <tr>
     <td style="text-align: center; width: 60%;">
-      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="250">
+      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="400">
     </td>
     <td style="vertical-align: top; width: 40%;">
       <h2> Machine Learning to predict oil spill size  </h2>
       <p>
-        Predict damage and oil outflow in tanker collision accidents; (i) Deep Neural Network, (ii) Gradient Boosted Regression Tree and (iii) Polynomial Regression based models are developed and trained on simulated accident data based on Monte Carlo Simulation  <br><br>
+        Predict damage and oil outflow in tanker collision accidents; (i) Deep Neural Network, (ii) Gradient Boosted Regression Tree and (iii) Polynomial Regression based models are developed and trained on simulated accident data based on Monte Carlo Simulation  <br>
         🔧 Tools: Python, Gurobi <br>
-                📊 Result: Improved model runtime by 14% over baseline solver.
-        Source: [LinkedIn blog](https://www.linkedin.com/pulse/machine-learning-model-predict-spill-volume-shipping-accidents-das/), [Publication link](https://doi.org/10.1177/14750902211039659), [source code](https://github.com/tanmoyie/Deep-Neural-Network)<br>
+        📊 Result: Improved model runtime by 14% over baseline solver.<br>
+        Source: [LinkedIn blog](https://www.linkedin.com/pulse/machine-learning-model-predict-spill-volume-shipping-accidents-das), [Publication link](https://doi.org/10.1177/14750902211039659), [source code](https://github.com/tanmoyie/Deep-Neural-Network)<br>
       </p>
     </td>
   </tr>
