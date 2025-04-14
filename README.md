@@ -10,10 +10,22 @@
 # Featured Optimization Projects
 
 ## Solving Vehicle Routing Problem using Column Generation
-- Introduce the problem
+
+<table border="0">
+ <tr>
+    <td>- Introduce the problem
 - How fast 12times than solver like Gurobi
-- outcome... 
-![optimized_network_P-n16-k8 vrp](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba)
+- outcome... </td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    ![optimized_network_P-n16-k8 vrp](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba)
+ </tr>
+</table>
+
+
+
+
 
 
 ## Multiobjective Facility Location Model for Optimizing Arctic Oil-Spill Response
