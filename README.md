@@ -1,21 +1,41 @@
-<h1 align="center">Hi, I'm Tanmoy Das</h1>
-<h3 align="center">A passionate Operations Research Scientist </h3>
-
-- 🔭 I’m currently working on [Optimizing Resource Allocation](https://www.maritimeriskandsafety.ca/personnel/tanmoyie/)
-
-- 💬 Ask me about **Python, Data Science, Analytics**
+![Graphical abstract JP4](https://github.com/user-attachments/assets/f6da5dc9-4293-4b1c-b03f-3838c9c073a4)<h1 align="center">Hi, I'm Tanmoy Das</h1>
+<h3 align="center">Operations Research Scientist </h3>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmoyie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmoyie" height="30" width="40" /></a>
-<a href="https://kaggle.com/tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanmoyie" height="30" width="40" /></a>
 <a href="https://medium.com/@tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanmoyie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanmoyie" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmoyie" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# Featured Optimization Projects
+
+## Solving Vehicle Routing Problem using Column Generation
+- Introduce the problem
+- How fast 12times than solver like Gurobi
+- outcome... 
+![optimized_network_P-n16-k8 vrp](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba)
+
+
+## Multiobjective Facility Location Model for Optimizing Arctic Oil-Spill Response
+- Formulate the problem into a mathematical optimization (Maximize spill coverage (and maximize effectiveness and minimize response time) and minimize cost) and Design a solution algorithm
+- 90% spill coverage in Arctic oil spill accidents
+- what about large-scale++ 
+![Graphical abstract JP4](https://github.com/user-attachments/assets/9ae7ad83-b444-4212-9553-d48a6d25300b)
+
+
+## Machine Learning to predict oil spill size
+- predict damage and oil outflow in tanker collision accidents; (i) Deep Neural Network, (ii) Gradient Boosted Regression Tree and (iii) Polynomial Regression based models are developed and trained on simulated accident data based on Monte Carlo Simulation
+- [Publication link](https://doi.org/10.1177/14750902211039659), [source code](https://github.com/tanmoyie/Deep-Neural-Network)
+
+
+# About me
+I love solving problems using data. I hold a PhD in Industrial Engineering (Operations Research specialization) from Dalhousie University.  
+
+
+
+# Publications
+1. Das, T., Goerlandt, F., & Pelot, R. (2024). A Mixed Integer Programming Approach to Improve Oil Spill Response Resource Allocation in the Canadian Arctic. Multimodal Transportation, 3(1). [https://doi.org/10.1016/j.multra.2023.100110](https://doi.org/10.1016/j.multra.2023.100110)
+2. Das, T., & Goerlandt, F. (2022). Bayesian inference modeling to rank response technologies in arctic marine oil spills. Marine Pollution Bulletin, 185, 114203. [https://doi.org/10.1016/j.marpolbul.2022.114203](https://doi.org/10.1016/j.marpolbul.2022.114203)
+3. Das, T., Goerlandt, F., & Tabri, K. (2021). An optimized metamodel for predicting damage and oil outflow in tanker collision accidents. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, 236(2), 412–426. [https://doi.org/10.1177/14750902211039659](https://doi.org/10.1177/14750902211039659)
+4. Das, T., Goerlandt, F., & Pelot, R. (2024). Multiobjective Facility Location Model for Optimizing Arctic Oil-Spill Response, INFOR (under revision)
+5. Das, T., Goerlandt, F. (2025). Optimization under Uncertainty: Stochastic Facility Location Model for Oil Spill Response in Arctic, OMEGA (submitted)
