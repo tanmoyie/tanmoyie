@@ -1,17 +1,17 @@
 <h3 align="center">Operations Research Scientist </h3>
 
-
+<p align="center">
 <a href="https://linkedin.com/in/tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmoyie" height="30" width="40" /></a>
 <a href="https://medium.com/@tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanmoyie" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanmoyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmoyie" height="30" width="40" /></a>
-
+</p>
 
 # Featured Optimization Projects
 
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 30%;">
+    <td style="vertical-align: top; width: 40%;">
       <h2>A mixed integer programming approach to improve oil spill response resource allocation </h2>
       <p>
         Develop a Mixed Integer Programming (MIP) optimization model for an oil spill problem to help strategic decision-making. <br>
@@ -21,7 +21,7 @@
         <a href="https://github.com/tanmoyie/Location-allocation-using-MIP">Source code</a>  
       </p>
     </td>
-    <td style="text-align: center; width: 70%;">
+    <td style="text-align: center; width: 60%;">
       <img src="https://github.com/user-attachments/assets/4c95b5f5-f612-4ded-9852-1e7cc0749374" alt="Canadian Arctic" width="350">
     </td>
   </tr>
@@ -91,7 +91,17 @@
 
 
 # About me
-I love solving problems using data. I hold a PhD in Industrial Engineering (Operations Research specialization) from Dalhousie University.  
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="![image](https://github.com/user-attachments/assets/873becf8-1409-43c5-934f-207c58f2493c)
+" alt="Tanmoy's Headshot" width="192" height="192" style="border-radius: 10px;">
+  
+  <div>
+    <p>
+      I love solving problems using data. I hold a PhD in Industrial Engineering (Operations Research specialization) from Dalhousie University.  I’m a postdoctoral researcher in Operations Research and my focus is on optimizing vehicle routing, inc. developing exact algorithms including Column Generation and Benders Decomposition, and AI-driven logistics systems.<br>
+    </p>
+  </div>
+</div>
+
 
 
 
