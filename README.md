@@ -17,6 +17,7 @@
         Develop a Mixed Integer Programming (MIP) optimization model for an oil spill problem to help strategic decision-making. <br>
         🔧 Tools: Python, Gurobi <br>
         📊 Result: Improved model runtime by 14% over baseline solver.
+      🔗 <a "https://github.com/tanmoyie/Location-allocation-using-MIP">Source code</a> 
       </p>
     </td>
     <td style="text-align: center; width: 60%;">
@@ -28,21 +29,23 @@
 
 <table>
   <tr>
-    <td style="text-align: center; width: 60%;">
-      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="250">
-    </td>
-    <td style="vertical-align: top; width: 40%;">
-      <h2> Machine Learning to predict oil spill size  </h2>
+    <td style="vertical-align: top; width: 60%;">
+      <h2>🛢️ Machine Learning to Predict Oil Spill Size</h2>
       <p>
-        Predict damage and oil outflow in tanker collision accidents; (i) Deep Neural Network, (ii) Gradient Boosted Regression Tree and (iii) Polynomial Regression based models are developed and trained on simulated accident data based on Monte Carlo Simulation  <br>
-        🔧 Tools: Python, Gurobi <br>
-        📊 Result: Improved model runtime by 14% over baseline solver.<br>
-        Source: [LinkedIn blog](https://www.linkedin.com/pulse/machine-learning-model-predict-spill-volume-shipping-accidents-das), [Publication link](https://doi.org/10.1177/14750902211039659), [source code](https://github.com/tanmoyie/Deep-Neural-Network)<br>
+        Predict damage and oil outflow in tanker collision accidents using:<br>
+        (i) Deep Neural Network, (ii) Gradient Boosted Regression Tree, and (iii) Polynomial Regression models — trained on simulated data via Monte Carlo methods. <br><br>
+        🔧 <strong>Tools:</strong> Python, Gurobi <br>
+        📊 <strong>Result:</strong> Improved runtime by 14% over baseline solver. <br><br>
+        🔗 <a href="https://www.linkedin.com/pulse/machine-learning-model-predict-spill-volume-shipping-accidents-das">LinkedIn blog</a> |
+        <a href="https://doi.org/10.1177/14750902211039659">Publication</a> |
+        <a href="https://github.com/tanmoyie/Deep-Neural-Network">Source Code</a>
       </p>
+    </td>
+    <td style="text-align: center; width: 40%;">
+      <img src="https://github.com/user-attachments/assets/7e4226d0-9d68-4073-87d2-6661799b5f24" alt="Oil spill incident" width="250">
     </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
