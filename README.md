@@ -11,6 +11,7 @@
 
 ## Solving Vehicle Routing Problem using Column Generation
 
+<div align='center'>
 <table border="0">
  <tr>
     <td>- Introduce the problem
@@ -19,9 +20,10 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    ![optimized_network_P-n16-k8 vrp](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba)
+    <td> ![optimized_network_P-n16-k8 vrp](https://github.com/user-attachments/assets/8bba41cb-f43c-4585-b706-bf52a7c359ba) </td>
  </tr>
 </table>
+</div>
 
 
 
