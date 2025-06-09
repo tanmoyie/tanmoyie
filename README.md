@@ -109,4 +109,3 @@
 2. Das, T., & Goerlandt, F. (2022). Bayesian inference modeling to rank response technologies in arctic marine oil spills. Marine Pollution Bulletin, 185, 114203. [https://doi.org/10.1016/j.marpolbul.2022.114203](https://doi.org/10.1016/j.marpolbul.2022.114203)
 3. Das, T., Goerlandt, F., & Tabri, K. (2021). An optimized metamodel for predicting damage and oil outflow in tanker collision accidents. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, 236(2), 412–426. [https://doi.org/10.1177/14750902211039659](https://doi.org/10.1177/14750902211039659)
 4. Das, T., Goerlandt, F., & Pelot, R. (2024). Multiobjective Facility Location Model for Optimizing Arctic Oil-Spill Response, INFOR (under revision)
-5. Das, T., Goerlandt, F. (2025). Optimization under Uncertainty: Stochastic Facility Location Model for Oil Spill Response in Arctic, OMEGA (submitted)
